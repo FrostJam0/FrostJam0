@@ -8,9 +8,9 @@
 
 To anyone who stumbles upon this page: welcome. 
 
-I’ve always considered myself a nobody, but I have always loved the act of creating. This profile, and the entire **FrostJam0** persona, is scheduled for deletion soon. Before it goes, I wanted to leave behind a brief archive of the path I walked, the things I built, and the places I worked.
+This profile, and the entire **FrostJam0** persona, is scheduled for deletion soon. Before it goes, I wanted to leave behind a brief archive of the path I walked, the things I built, and the places I worked, sort of, no ones gonna read while this exists so it doesn't matter. This is just for before I delete this, and when I do'.
 
-It might seem slightly childish to compile a resume of sorts on a GitHub profile that will soon cease to exist—and one that very few people will ever look at anyway. But in a way, this is a time capsule. It’s a testament to a journey that shaped who I am.
+It might seem slightly childish to compile a resume', on 1st July 2026 of sorts on a GitHub profile that will soon cease to exist—and one that very few people will ever look at anyway, or none at all so it doesn't matter and that I will also reflect back and look at how childish this is. But in a way, this is a time capsule. It’s a testament to a journey that shaped who I am.
 
 ---
 
@@ -19,17 +19,17 @@ It might seem slightly childish to compile a resume of sorts on a GitHub profile
 Over the years, I’ve had the privilege of working with incredible communities, platforms, and teams. Here is a snapshot of that history:
 
 ### 🎮 Gaming & Development Roots
-* **Roblox Game Development:** Where my passion for creating first took shape, designing and building games.
+* **Roblox Game Development**
 * **Minecraft (MC):** A cornerstone of my journey, both as a player and a developer, exploring its endless creative bounds.
 
 ### 📦 Platform & Community Ownership
 * **Modrinth:** Served as an Organization Owner, helping shape a modern platform for Minecraft modding.
-* **Origins:** Owned and managed an organization within the community, fostering collaborative development.
+* **Origins [MC]:** Owned and managed an organization within the community, fostering collaborative development.
 
 ### 🌐 Infrastructure & Game Hosting
 Worked with various hosting providers, helping manage, support, and scale environments for developers and gamers alike:
 * **LimeNodes**
-* **Purbyte**
+* **Purbyte, as a founder but the project practically never existed haha**
 * **EraNodes**
 * *...and several others.*
 
@@ -39,13 +39,13 @@ Worked with various hosting providers, helping manage, support, and scale enviro
 
 The best part of this entire journey wasn't the code, the servers, or the platforms. It was the people. 
 
-I have met, conversed with, and worked alongside so many awesome individuals. To the friends I made, the mentors who guided me, and the developers who inspired me: **thank you**. Your presence made every late-night debug session and project launch worth it. I am incredibly grateful for every interaction and memory.
+I have met, conversed with, and worked alongside so many awesome individuals. To the friends I made, the mentors who guided me, and the developers who inspired me, my friends': **thank you**. Your presence made every late-night and project launch worth it. I am incredibly grateful for every interaction and memory.
 
 ---
 
 ## 🌌 Moving Forward
 
-Everything has its season. While this persona is coming to an end, the drive to create remains. It is time to step away, close this chapter, and move on to become my true self. 
+Everything has its season. While this persona is coming to an end, the drive to create remains. It is time to step away, close this chapter, and move on to become my true self'. 
 
 Thank you for being a part of this story, even if only for a moment.
 
